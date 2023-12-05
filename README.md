@@ -39,3 +39,8 @@ Give a ⭐️ if this project helped you!
 💡 Remember to check out the `assets` directory for each event to customize character data! 🎅👻🐇
 
 ---
+
+## Few DALL·E Visualizations
+- 🎁 <br> ![image](https://github.com/KaNiuSii/Go-EventAPI/assets/123270897/c90b4f80-cb81-4fd8-884e-61732ef2a49d) <br>
+- 🦇 <br> ![image](https://github.com/KaNiuSii/Go-EventAPI/assets/123270897/cc3abca7-befc-48c6-9e22-eb6b7b09dd51) <br>
+- 🐤 <br> ![image](https://github.com/KaNiuSii/Go-EventAPI/assets/123270897/2e2794d3-7e6d-40e5-823c-a4ed9d60e541) <br>
