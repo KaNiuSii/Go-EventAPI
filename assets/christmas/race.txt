@@ -1,0 +1,12 @@
+Elf
+Human
+Reindeer
+Snowman
+Devil
+Angel
+Sprite
+Troll
+Toy Soldier
+Unknown
+Dog
+Cat

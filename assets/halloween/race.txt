@@ -1,0 +1,20 @@
+Witch
+Zombie
+Vampire
+Ghost
+Werewolf
+Goblin
+Mummy
+Skeleton
+Demon
+Banshee
+Black Cat
+Bat
+Scarecrow
+Monster
+Shapeshifter
+Headless Horseman
+Imp
+Frankenstein's Creature
+Ghoul
+Warlock
